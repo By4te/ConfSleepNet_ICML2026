@@ -45,6 +45,3 @@ year={2026},
 volume={},
 }
 ```
-
-## Contact
-If you have any detailed questions or suggestions, you can email us: [nwu_tyz@stumail.nwu.edu.cn](mailto:nwu_tyz@stumail.nwu.edu.cn)
